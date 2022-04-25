@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @CarlosEduardo08
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m **CarlosEduardo**
+- 👀 I’m interested in aprender coisas novas
+- 🌱 I’m currently learning progamação
+- 💞️ I’m looking to collaborate on tudo que for possivel
+<!-- - 📫 How to reach me email --> cadubritobr@gmail.com
 
 <!---
 CarlosEduardo08/CarlosEduardo08 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
